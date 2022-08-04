@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ffathena.github.io/sitemap.xml
