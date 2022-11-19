@@ -5,7 +5,7 @@
     <link>https://ffathena.github.io/publication/</link>
       <atom:link href="https://ffathena.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,22 +13,59 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://ffathena.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Deep learning acceleration in 14nm CMOS compatible ReRAM array: device, material and algorithm co-optimization</title>
+      <link>https://ffathena.github.io/publication/iedm/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/iedm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of oxygen concentration at the HfOx/Ti interface on the behavior of HfOx filamentary memristors</title>
+      <link>https://ffathena.github.io/publication/jinho/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/jinho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of titanium doping and pulsing conditions on the analog temporal response of hafnium oxide based memristor synapses</title>
+      <link>https://ffathena.github.io/publication/jap/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/jap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a better understanding of the forming and resistive switching behavior of Ti-doped HfO x RRAM</title>
+      <link>https://ffathena.github.io/publication/rsc/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/rsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-HfOx/ AlOy and AlOy/ HfOx Based Memristor Devices: Role of Bi-layered Oxides in Digital Set and Analog Reset Switching</title>
+      <link>https://ffathena.github.io/publication/preprint/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size Dependent Magnetic and Optical Properties of Mn Doped Bi0. 9Ho0. 1FeO3 Nanoparticles</title>
+      <link>https://ffathena.github.io/publication/ug_1/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/ug_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size Dependent Magnetic and Optical Properties of Mn Doped Bi0. 9Ho0. 1FeO3 Nanoparticles</title>
+      <link>https://ffathena.github.io/publication/ug_2/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/ug_2/</guid>
+      <description></description>
     </item>
     
   </channel>
