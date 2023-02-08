@@ -5,12 +5,20 @@
     <link>https://ffathena.github.io/publication/</link>
       <atom:link href="https://ffathena.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ffathena.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Bias history impacts the analog resistance change of HfOx-based neuromorphic synapses</title>
+      <link>https://ffathena.github.io/publication/apl/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/apl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep learning acceleration in 14nm CMOS compatible ReRAM array: device, material and algorithm co-optimization</title>
