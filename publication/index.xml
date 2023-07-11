@@ -5,12 +5,36 @@
     <link>https://ffathena.github.io/publication/</link>
       <atom:link href="https://ffathena.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ffathena.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Trade-off between Gradual Set and On/Off Ratio in HfOx-Based Analog Memory with a Thin SiOx Barrier Layer</title>
+      <link>https://ffathena.github.io/publication/aem/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/aem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermal environment impact on HfOx RRAM operation: A nanoscale thermometry and modeling study</title>
+      <link>https://ffathena.github.io/publication/jap_mat/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/jap_mat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric Resistive Switching of Bilayer HfO x/AlO y and AlO y/HfO x Memristors: The Oxide Layer Characteristics and Performance Optimization for Digital Set and Analog Reset Switching</title>
+      <link>https://ffathena.github.io/publication/basnet/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/basnet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bias history impacts the analog resistance change of HfOx-based neuromorphic synapses</title>
@@ -39,7 +63,7 @@
     <item>
       <title>Impact of titanium doping and pulsing conditions on the analog temporal response of hafnium oxide based memristor synapses</title>
       <link>https://ffathena.github.io/publication/jap/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://ffathena.github.io/publication/jap/</guid>
       <description></description>
     </item>
@@ -53,14 +77,6 @@
     </item>
     
     <item>
-      <title>Quasi-HfOx/ AlOy and AlOy/ HfOx Based Memristor Devices: Role of Bi-layered Oxides in Digital Set and Analog Reset Switching</title>
-      <link>https://ffathena.github.io/publication/preprint/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/publication/preprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Size Dependent Magnetic and Optical Properties of Mn Doped Bi0. 9Ho0. 1FeO3 Nanoparticles</title>
       <link>https://ffathena.github.io/publication/ug_1/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
@@ -69,7 +85,7 @@
     </item>
     
     <item>
-      <title>Size Dependent Magnetic and Optical Properties of Mn Doped Bi0. 9Ho0. 1FeO3 Nanoparticles</title>
+      <title>Theoretical and Experimental Evidence of Modified Structure, Magnetism and Optical Properties in Ba and Mn Co-Substituted BiFeO3</title>
       <link>https://ffathena.github.io/publication/ug_2/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://ffathena.github.io/publication/ug_2/</guid>
