@@ -5,12 +5,34 @@
     <link>https://ffathena.github.io/</link>
       <atom:link href="https://ffathena.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabia Farlin Athena</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Nov 2023 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Fabia Farlin Athena</title>
       <link>https://ffathena.github.io/</link>
     </image>
+    
+    <item>
+      <title>Stanford University - Adaptive Oxide Devices for Brain-Inspired Computing</title>
+      <link>https://ffathena.github.io/talk/stanford-university-adaptive-oxide-devices-for-brain-inspired-computing/</link>
+      <pubDate>Fri, 03 Nov 2023 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/stanford-university-adaptive-oxide-devices-for-brain-inspired-computing/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
     
     <item>
       <title>11/03/2023 - I gave a talk at Electrical Engineering, Stanford University.</title>
@@ -61,6 +83,36 @@
     </item>
     
     <item>
+      <title>IBM TJ Watson Research Center</title>
+      <link>https://ffathena.github.io/talk/ibm-tj-watson-research-center/</link>
+      <pubDate>Mon, 31 Jul 2023 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/ibm-tj-watson-research-center/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>07/31/2023 - I gave a presentation at IBM TJ Watson Research Center.</title>
+      <link>https://ffathena.github.io/post/ibm_talk/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/post/ibm_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trade-off between Gradual Set and On/Off Ratio in HfOx-Based Analog Memory with a Thin SiOx Barrier Layer</title>
       <link>https://ffathena.github.io/publication/aem/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
@@ -101,6 +153,50 @@
     </item>
     
     <item>
+      <title>MRS Spring 2023 - Assessing the Impact of Ti Doping and MAX-Phase Ti2AlN Electrode in HfOx Neuromorphic Devices</title>
+      <link>https://ffathena.github.io/talk/mrs-spring-2023-assessing-the-impact-of-ti-doping-and-max-phase-ti2aln-electrode-in-hfox-neuromorphic-devices/</link>
+      <pubDate>Thu, 13 Apr 2023 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/mrs-spring-2023-assessing-the-impact-of-ti-doping-and-max-phase-ti2aln-electrode-in-hfox-neuromorphic-devices/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stanford University - Filamentary and Ferroelectric Semiconductor Junction devices for brain-inspired computing - from physics to deep learning</title>
+      <link>https://ffathena.github.io/talk/stanford-university-filamentary-and-ferroelectric-semiconductor-junction-devices-for-brain-inspired-computing-from-physics-to-deep-learning/</link>
+      <pubDate>Wed, 12 Apr 2023 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/stanford-university-filamentary-and-ferroelectric-semiconductor-junction-devices-for-brain-inspired-computing-from-physics-to-deep-learning/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Asymmetric Resistive Switching of Bilayer HfO x/AlO y and AlO y/HfO x Memristors: The Oxide Layer Characteristics and Performance Optimization for Digital Set and Analog Reset Switching</title>
       <link>https://ffathena.github.io/publication/basnet/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
@@ -125,6 +221,50 @@
     </item>
     
     <item>
+      <title>IBM TJ Watson Research Center - Demonstration of a Deep Learning Application in 14 nm Technology based RRAM Array</title>
+      <link>https://ffathena.github.io/talk/ibm-tj-watson-research-center-demonstration-of-a-deep-learning-application-in-14-nm-technology-based-rram-array/</link>
+      <pubDate>Mon, 01 Aug 2022 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/ibm-tj-watson-research-center-demonstration-of-a-deep-learning-application-in-14-nm-technology-based-rram-array/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBM TJ Watson Research Center - Impact of active layer doping and barrier layer engineering of adaptive oxide RRAM</title>
+      <link>https://ffathena.github.io/talk/ibm-tj-watson-research-center-impact-of-active-layer-doping-and-barrier-layer-engineering-of-adaptive-oxide-rram/</link>
+      <pubDate>Wed, 01 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/ibm-tj-watson-research-center-impact-of-active-layer-doping-and-barrier-layer-engineering-of-adaptive-oxide-rram/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Impact of oxygen concentration at the HfOx/Ti interface on the behavior of HfOx filamentary memristors</title>
       <link>https://ffathena.github.io/publication/jinho/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
@@ -141,6 +281,28 @@
     </item>
     
     <item>
+      <title>MRS Spring 2022 - Controlling the Oxygen Ion Motion Using a Diffusion Barrier Layer in HfOx-Based Analog Memory</title>
+      <link>https://ffathena.github.io/talk/mrs-spring-2022-controlling-the-oxygen-ion-motion-using-a-diffusion-barrier-layer-in-hfox-based-analog-memory/</link>
+      <pubDate>Tue, 10 May 2022 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/mrs-spring-2022-controlling-the-oxygen-ion-motion-using-a-diffusion-barrier-layer-in-hfox-based-analog-memory/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Towards a better understanding of the forming and resistive switching behavior of Ti-doped HfO x RRAM</title>
       <link>https://ffathena.github.io/publication/rsc/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
@@ -149,10 +311,10 @@
     </item>
     
     <item>
-      <title>Physical Electro-thermal Modeling of Nano-scale Analog Synaptic Devices</title>
-      <link>https://ffathena.github.io/talk/physical-electro-thermal-modeling-of-nano-scale-analog-synaptic-devices/</link>
+      <title>CRA-WP Workshop - Physical Electro-thermal Modeling of Nano-scale Analog Synaptic Devices</title>
+      <link>https://ffathena.github.io/talk/cra-wp-workshop-physical-electro-thermal-modeling-of-nano-scale-analog-synaptic-devices/</link>
       <pubDate>Thu, 01 Apr 2021 13:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/talk/physical-electro-thermal-modeling-of-nano-scale-analog-synaptic-devices/</guid>
+      <guid>https://ffathena.github.io/talk/cra-wp-workshop-physical-electro-thermal-modeling-of-nano-scale-analog-synaptic-devices/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
