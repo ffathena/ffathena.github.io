@@ -5,7 +5,7 @@
     <link>https://ffathena.github.io/project/</link>
       <atom:link href="https://ffathena.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,34 +13,35 @@
     </image>
     
     <item>
-      <title>Application of Adaptive Oxide Synapses in Deep Learning</title>
-      <link>https://ffathena.github.io/project/dl/</link>
+      <title>Understanding the Mechanism of Adaptive Oxide Memristors</title>
+      <link>https://ffathena.github.io/project/tat/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/project/tat/</guid>
+      <description>&lt;p&gt;(i) Investigation into the dynamics of Ti/HfOx synapses via modeling - I developed a compact model based on Trap-Assisted Tunneling and Ohmic transport principles to understand the working principle of adaptive oxide memristors. The model replicated experimental analog resistance change and temperature-driven current-voltage relationships up to ~200°C. This model also enabled simulations of analog pulse impacts on rupture thickness and extraction of barrier-height parameters at the oxide/electrode interface.2 We observed barrier height impacts the current responses. Consequently, it is anticipated that the active layer dopant will affect the barrier height, and thereby, the resistance change. (ii) Exploration of the impact of active layer dopant - I explored the impact of titanium dopant on the Atomic Layer Deposited HfOx active layer by varying Hf to Ti ratios. This exploration unveiled that increased titanium doping leads to higher vacancy concentration, signified by a decrease in bonded oxygen. The results of this work have demonstrated clear links between dopant concentration and resistive switching performance. Interestingly, the lower bandgap of titanium relative to HfO2 induces an increased tunneling current and decreased forming voltage, while also enhancing linearity under negative analog pulses. However, attaining linearity under positive analog pulses remains a challenging pursuit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving the Performance of Adaptive Oxide Memristors</title>
+      <link>https://ffathena.github.io/project/perf/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/project/perf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Application of Adaptive Oxide Memristors</title>
+      <link>https://ffathena.github.io/project/dl/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       <guid>https://ffathena.github.io/project/dl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploration of the Impact of Doping on Adaptive Oxide Devices</title>
-      <link>https://ffathena.github.io/project/ti/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/project/ti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gradual Resistance Change with Barrier Layer in HfOx Devices</title>
-      <link>https://ffathena.github.io/project/siox/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/project/siox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigation into the Dynamics of Ti/HfOx synapses via modeling</title>
-      <link>https://ffathena.github.io/project/tat/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/project/tat/</guid>
+      <title>2D In2Se3-based Transistors and Memristors</title>
+      <link>https://ffathena.github.io/project/inse/</link>
+      <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/project/inse/</guid>
       <description></description>
     </item>
     
