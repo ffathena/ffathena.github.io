@@ -5,12 +5,28 @@
     <link>https://ffathena.github.io/publication/</link>
       <atom:link href="https://ffathena.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ffathena.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>MAX Phase Ti2AlN for HfO2 Memristors with Ultra‐Low Reset Current Density and Large On/Off Ratio</title>
+      <link>https://ffathena.github.io/publication/adfm/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/adfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Transfer Learning Using 14 nm Technology Analog ReRAM Array</title>
+      <link>https://ffathena.github.io/publication/frontier/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/frontier/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Describing the Analog Resistance Change of HfOx-based Neuromorphic Synapses using a Compact Series Trap-Assisted Tunneling and Ohmic Conduction Model</title>
