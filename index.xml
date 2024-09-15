@@ -5,12 +5,36 @@
     <link>https://ffathena.github.io/</link>
       <atom:link href="https://ffathena.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabia Farlin Athena</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Fabia Farlin Athena</title>
       <link>https://ffathena.github.io/</link>
     </image>
+    
+    <item>
+      <title>Monolithic 3D integration of FeFET array for in-memory compute</title>
+      <link>https://ffathena.github.io/publication/patent/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>09/11/2024 - Our paper on high-bandwidth complementary oxide gain cell memory was accepted to IEDM 2024.</title>
+      <link>https://ffathena.github.io/post/iedm/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/post/iedm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Demonstration of an N-P Oxide Semiconductor Complementary Gain Cell Memory</title>
+      <link>https://ffathena.github.io/publication/iedm_self/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/iedm_self/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>03/13/2024 - I have started at Stanford University as an Energy Postdoctoral Fellow.</title>
@@ -306,9 +330,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Deep learning acceleration in 14nm CMOS compatible ReRAM array: device, material and algorithm co-optimization</title>
-      <link>https://ffathena.github.io/publication/iedm/</link>
+      <link>https://ffathena.github.io/publication/iedm_ibm/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/publication/iedm/</guid>
+      <guid>https://ffathena.github.io/publication/iedm_ibm/</guid>
       <description></description>
     </item>
     

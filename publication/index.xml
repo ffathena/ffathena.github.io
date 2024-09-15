@@ -5,12 +5,28 @@
     <link>https://ffathena.github.io/publication/</link>
       <atom:link href="https://ffathena.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://ffathena.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Monolithic 3D integration of FeFET array for in-memory compute</title>
+      <link>https://ffathena.github.io/publication/patent/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/patent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Demonstration of an N-P Oxide Semiconductor Complementary Gain Cell Memory</title>
+      <link>https://ffathena.github.io/publication/iedm_self/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/iedm_self/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MAX Phase Ti2AlN for HfO2 Memristors with Ultra‐Low Reset Current Density and Large On/Off Ratio</title>
@@ -78,9 +94,9 @@
     
     <item>
       <title>Deep learning acceleration in 14nm CMOS compatible ReRAM array: device, material and algorithm co-optimization</title>
-      <link>https://ffathena.github.io/publication/iedm/</link>
+      <link>https://ffathena.github.io/publication/iedm_ibm/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/publication/iedm/</guid>
+      <guid>https://ffathena.github.io/publication/iedm_ibm/</guid>
       <description></description>
     </item>
     

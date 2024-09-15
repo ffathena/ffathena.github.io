@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Fabia Farlin Athena</title>
+    <title>Updates | Fabia Farlin Athena</title>
     <link>https://ffathena.github.io/post/</link>
       <atom:link href="https://ffathena.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <description>Updates</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
+      <title>Updates</title>
       <link>https://ffathena.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>09/11/2024 - Our paper on high-bandwidth complementary oxide gain cell memory was accepted to IEDM 2024.</title>
+      <link>https://ffathena.github.io/post/iedm/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/post/iedm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>03/13/2024 - I have started at Stanford University as an Energy Postdoctoral Fellow.</title>
