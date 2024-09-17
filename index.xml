@@ -37,6 +37,28 @@
     </item>
     
     <item>
+      <title>CHIMES - Hybrid and Complementary Gain Cells for High Bandwidth On-Chip Memory</title>
+      <link>https://ffathena.github.io/talk/chimes-hybrid-and-complementary-gain-cells-for-high-bandwidth-on-chip-memory/</link>
+      <pubDate>Sun, 11 Aug 2024 13:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/talk/chimes-hybrid-and-complementary-gain-cells-for-high-bandwidth-on-chip-memory/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>03/13/2024 - I have started at Stanford University as an Energy Postdoctoral Fellow.</title>
       <link>https://ffathena.github.io/post/stanford_start/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
@@ -85,10 +107,10 @@
     </item>
     
     <item>
-      <title>A Novel Electrical Bias Technique to Recover Degraded ReRAM Arrays for Deep Learning</title>
-      <link>https://ffathena.github.io/talk/a-novel-electrical-bias-technique-to-recover-degraded-reram-arrays-for-deep-learning/</link>
+      <title>MRS Fall 2023 - A Novel Electrical Bias Technique to Recover Degraded ReRAM Arrays for Deep Learning</title>
+      <link>https://ffathena.github.io/talk/mrs-fall-2023-a-novel-electrical-bias-technique-to-recover-degraded-reram-arrays-for-deep-learning/</link>
       <pubDate>Thu, 30 Nov 2023 13:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/talk/a-novel-electrical-bias-technique-to-recover-degraded-reram-arrays-for-deep-learning/</guid>
+      <guid>https://ffathena.github.io/talk/mrs-fall-2023-a-novel-electrical-bias-technique-to-recover-degraded-reram-arrays-for-deep-learning/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -107,10 +129,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Describing the Analog Resistance Change of HfOx Neuromorphic Synapses</title>
-      <link>https://ffathena.github.io/talk/describing-the-analog-resistance-change-of-hfox-neuromorphic-synapses/</link>
+      <title>MRS Fall 2023 - Describing the Analog Resistance Change of HfOx Neuromorphic Synapses</title>
+      <link>https://ffathena.github.io/talk/mrs-fall-2023-describing-the-analog-resistance-change-of-hfox-neuromorphic-synapses/</link>
       <pubDate>Thu, 30 Nov 2023 13:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/talk/describing-the-analog-resistance-change-of-hfox-neuromorphic-synapses/</guid>
+      <guid>https://ffathena.github.io/talk/mrs-fall-2023-describing-the-analog-resistance-change-of-hfox-neuromorphic-synapses/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -199,10 +221,10 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>IBM TJ Watson Research Center</title>
-      <link>https://ffathena.github.io/talk/ibm-tj-watson-research-center/</link>
+      <title>IBM TJ Watson Research Center - Talk Title Redacted [Internal]</title>
+      <link>https://ffathena.github.io/talk/ibm-tj-watson-research-center-talk-title-redacted-internal/</link>
       <pubDate>Mon, 31 Jul 2023 13:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/talk/ibm-tj-watson-research-center/</guid>
+      <guid>https://ffathena.github.io/talk/ibm-tj-watson-research-center-talk-title-redacted-internal/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
