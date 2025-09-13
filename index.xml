@@ -5,12 +5,36 @@
     <link>https://ffathena.github.io/</link>
       <atom:link href="https://ffathena.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabia Farlin Athena</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/logo_hu86aa85158d20b79de328c204d4eb8581_98568_300x300_fit_lanczos_3.png</url>
       <title>Fabia Farlin Athena</title>
       <link>https://ffathena.github.io/</link>
     </image>
+    
+    <item>
+      <title>Orthogonal VT Tuning for Oxide Semiconductor 2T Gain Cell Enabled by Interface Dipole Engineering</title>
+      <link>https://ffathena.github.io/publication/vlsi/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key to Low Supply Voltage: Transition Region of Oxide Semiconductor Transistors</title>
+      <link>https://ffathena.github.io/publication/vlsi_kj/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/vlsi_kj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization is Key to High-Temperature Reliability in Oxide-Semiconductor FETs</title>
+      <link>https://ffathena.github.io/publication/drc/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/drc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>04/07/2025 - I received the Sigma Xi Best Ph.D. Thesis Award at Georgia Tech.</title>
