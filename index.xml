@@ -5,12 +5,20 @@
     <link>https://ffathena.github.io/</link>
       <atom:link href="https://ffathena.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Fabia Farlin Athena</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffathena.github.io/media/logo_hu4457a7692a5ff61705c8f38db5cd7af9_231257_300x300_fit_lanczos_3.png</url>
       <title>Fabia Farlin Athena</title>
       <link>https://ffathena.github.io/</link>
     </image>
+    
+    <item>
+      <title>Gate Dielectric Engineering with an Ultrathin Silicon-oxide Interfacial Dipole Layer for Low-Leakage Oxide-Semiconductor Memories</title>
+      <link>https://ffathena.github.io/publication/si_dipole/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://ffathena.github.io/publication/si_dipole/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Channel-last gate-all-around nanosheet oxide semiconductor transistors</title>
@@ -41,14 +49,6 @@
       <link>https://ffathena.github.io/publication/ai4mat/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://ffathena.github.io/publication/ai4mat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gate Dielectric Engineering with an Ultrathin Silicon-oxide Interfacial Dipole Layer for Low-Leakage Oxide-Semiconductor Memories</title>
-      <link>https://ffathena.github.io/publication/si_dipole/</link>
-      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://ffathena.github.io/publication/si_dipole/</guid>
       <description></description>
     </item>
     
